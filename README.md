@@ -3,7 +3,7 @@ import Desenvolvedor from "@DevFilipeF";
 
 class SobreMim extends Desenvolvedor {
   nome = "Filipe Ferreira";
-  area = "FullStack";
+  area = "BackEnd";
 }
 
 class Skills extends Desenvolvedor {
