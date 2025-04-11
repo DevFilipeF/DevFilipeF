@@ -1,5 +1,5 @@
 
-<h2 align="center"># 💻 Seja Bem-vindo(a) ao meu Github!</h2>
+<h2 align="center"> 💻 Seja Bem-vindo(a) ao meu Github!</h2>
 
 ###
 
