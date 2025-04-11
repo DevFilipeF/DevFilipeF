@@ -13,7 +13,7 @@
 <p align="left">Sou um desenvolvedor backend Júnior, tenho grande interesse por tecnologia e estou sempre em busca de novos aprendizados para aprimorar minhas habilidades e contribuir para projetos desafiadores.<br><br>Atualmente, estou em busca de uma oportunidade de estágio como desenvolvedor backend, com o objetivo de aplicar meus conhecimentos, aprender com profissionais experientes e crescer na área de desenvolvimento de software.<br><br>Além da minha formação técnica, também desenvolvi habilidades interpessoais por meio de experiências como voluntário em eventos, fortalecendo minha capacidade de trabalho em equipe e organização. 👨‍💻</p>
 
 ###
-<br>
+<br><br>
 <div align="center">
   <a href="https://devfilipef-portifolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portifolio&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="35" alt="codesandbox logo"  />
@@ -22,14 +22,15 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+<br><br>
 
 ###
-<br>
+<br><br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevFilipeF&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-<br>
-###
+<br> <br> 
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
