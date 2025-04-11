@@ -24,13 +24,13 @@
   </a>
 </div>
 <br><br>
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevFilipeF&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 <br><br>
-###
+
 <br><br>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
@@ -52,7 +52,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
 </div>
 <br><br>
-###
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevFilipeF/DevFilipeF/output/pacman-contribution-graph-dark.svg">
